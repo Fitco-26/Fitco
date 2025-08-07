@@ -2,8 +2,10 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>landingPage</div>
-  )
+    <div>
+      HomePage
+    </div>
+  );
 }
 
-export default HomePage
+export default HomePage;
